@@ -40,7 +40,7 @@ Build:
 npm i && npm run build
 ```
 
-## Languages Mandarin Chinese 
+## Languages 
 
 Use the language selector in the top right corner to change the language.
 
